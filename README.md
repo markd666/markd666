@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I'm Mark Shilton 👋
 
-<!--
-**markd666/markd666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Space Robotic
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Space Robotics 
+- 🌱 I’m currently learning golang, blockchain, grafana, influxdb, telegraph, bazel, docker
+- 👯 I’m looking to collaborate on Delay Tolerant Networknig
+- 🤔 I’m looking for help with golang code structure, testing best practise, 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+
+[linkedIn](https://www.linkedin.com/in/mark-shilton/)
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://markshilton.com
+[twitter]: https://twitter.com/markshilton
+[linkedin]: https://linkedin.com/in/mark-shilton/
